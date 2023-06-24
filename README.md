@@ -24,16 +24,6 @@ socket = new Socket("128.211.189.172", 4242);
 
 -Also, keep in mind that the data in text files of the remote IP are different from the data in text files of the localhost. Also, if it doesn't work then that would mean the server isn't running on Eric's device, but it should be running until May 7. Also, if it still doesn't work, our video demonstration shows the remote connection.
 
-
-# Who submitted which parts of the assignment on Brightspace and Vocareum
--Ryan Newman: Submitted Report on Brightspace
-
--Ryan Newman: Submitted Vocareum workspace.
-
--Aidan Cummings: Submitted Presentation on Brightspace
-
-
-
 # Descriptions of each Class
 Server:
 
